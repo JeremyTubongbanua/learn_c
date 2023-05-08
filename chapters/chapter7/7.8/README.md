@@ -63,4 +63,4 @@ system(s); // runs `date` in terminal and prints it in stdout
 ## 7.8.7 Random Number Generation
 
 - `rand()` computes a sequence of pseud-random integers in the range zero to `RAND_MAX` which is defined in `stdlib.h`
-- `srand(unsigned` sets the seed for `rand`
+- `srand(unsigned)` sets the seed for `rand`
